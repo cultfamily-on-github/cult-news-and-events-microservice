@@ -2,13 +2,14 @@
 
 In order to strengthen resilience, scalability and technological freedom for contributors, we establish a microservices architecture. 
 
+## Status
+First Drafts & Idea Collection
+
 ## Frontend
 When it comes to state of the art web programming frameworks [Svelte](https://svelte.dev) is the framework [of choice](https://www.youtube.com/watch?v=rv3Yq-B8qp4) imo.    
 The two main reasons for that choice - comparing svelte to angular, vue and react - are performance and simplicity.   
 You might continuously improve the performance of this page utilizing [pagespeed.web.dev](https://pagespeed.web.dev/).   
 To speed up programming while ensuring beauty we utilize the [UI Kit Attractions](https://illright.github.io/attractions/?ref=madewithsvelte.com) - see also [intro](https://www.youtube.com/watch?v=RkD88ARvucM&t=492s).
-
-In order to keep the UI simple [hex.pub](https://hex.pub/) might serve as inspiration.
 
 ## Backend
 When it comes to off-chain backends [Deno](https://deno.land) is the runtime environment of choice imo.    
