@@ -1,4 +1,4 @@
-# CULT News Microservice
+# CULT News And Events Microservice
 
 In order to strengthen resilience, scalability and technological freedom for contributors, we establish a microservices architecture. 
 
